@@ -1,0 +1,5 @@
+tup = ("Banana","guva","strobery","mango","custard apple","mango","watermellon","mango","greaps","chiku")
+fruit=tup.index("custard apple")
+print("custard apple on index",fruit)
+fruit2=tup.count("mango")
+print("the mango appers in tuple",fruit2)
